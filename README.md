@@ -2,21 +2,21 @@
 
 ## Steps I did:
 1. ```bash
-  npm init -y
-  ```
+    npm init -y
+    ```
 
 1. ```bash
-  touch action.yml
-  ```
+    touch action.yml
+    ```
 
 1. ```bash
-  npm install @actions/core
-  ```
+    npm install @actions/core
+    ```
 
 1. ```bash
-  npm install @actions/github
-  ```
+    npm install @actions/github
+    ```
 
 <!-- 1. ```bash
-  code
-  ``` -->
+    code
+    ``` -->
